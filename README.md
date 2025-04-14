@@ -8,7 +8,6 @@
 [![Code Quality](https://img.shields.io/codacy/grade/a5db8a1321664e67900c96eadc575ece/master?style=flat-square)](https://app.codacy.com/gh/codezero-be/laravel-localized-routes)
 [![Total Downloads](https://img.shields.io/packagist/dt/codezero/laravel-localized-routes.svg?style=flat-square)](https://packagist.org/packages/codezero/laravel-localized-routes)
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3UQ8V)
 
 A convenient way to set up and use localized routes in a Laravel app.
 
